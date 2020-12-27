@@ -8,3 +8,5 @@ by [![image](https://user-images.githubusercontent.com/37987346/101912317-962066
 
 - [Handshake](https://handshake.org/)
 - [NameBase](https://namebase.io/)
+- [Handshake-Coin/](http://handshake-coin.hns.to/)
+- [HNS Coins/](http://hnscoins.hns.to/)
